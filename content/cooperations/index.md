@@ -3,7 +3,7 @@ title: Collaborations
 type: landing
 
 sections:
-  - block: collaborations
+  - block: content
     content:
       title: Collaborations
       text: |
