@@ -3,7 +3,7 @@ title: Welcome to the CoMind Lab
 type: landing
 
 sections:
-  - block: markdown
+  - block: text
     content:
       title: "Welcome to the CoMind Lab"
       text: >
