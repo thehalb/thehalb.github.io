@@ -3,8 +3,8 @@
 title: 
 
 # Full Name (for SEO)
-first_name: 
-last_name: 
+first_name: Juliane
+last_name: Kämmer
 
 # Is this the primary user of the site?
 superuser: true
