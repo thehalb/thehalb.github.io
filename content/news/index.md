@@ -1,5 +1,5 @@
 ---
-title: Uses
+title: News
 pager: false
 ---
 
