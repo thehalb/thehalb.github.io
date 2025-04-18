@@ -17,10 +17,7 @@ sections:
         country_code: CH
       email: : juliane.kaemmer@unibe.ch
       phone: +41 31 632 57 01
-      
-      coordinates:
-        latitude: '46.94835804462494'
-        longitude: '7.424003842328197'
+    
 
       #contact_links:
       #  - icon: comments
