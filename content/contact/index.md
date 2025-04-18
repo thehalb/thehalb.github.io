@@ -7,35 +7,33 @@ sections:
   - block: contact
     content:
       title: Contact
-      Name: Prof. Dr. Juliane Kämmer
+      body: |
+        **Prof. Dr. Juliane Kämmer**  
+        Universitätsklinik für Notfallmedizin  
+        Rosenbühlgasse 27  
+        3010 Bern  
+        Switzerland  
+        📞 +41 31 632 57 01  
+        ✉️ juliane.kaemmer@unibe.ch
+
+      email: juliane.kaemmer@unibe.ch
+      phone: +41 31 632 57 01
+
       address:
-        place: Universitätsklinik für Notfallmedizin
         street: Rosenbühlgasse 27
         city: Bern
         postcode: '3010'
+        region: Bern
         country: Switzerland
         country_code: CH
-      email: : juliane.kaemmer@unibe.ch
-      phone: +41 31 632 57 01
-    
 
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
       autolink: true
-    
-      # Email form provider
+
       form:
         provider: netlify
-        formspree:
-          id:
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
+
     design:
-      columns: '1'
+      columns: "1"
 ---
